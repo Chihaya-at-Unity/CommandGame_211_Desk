@@ -1,0 +1,2 @@
+# CommandGame_211_Desk
+unity作成中のコマンドゲームのスクリプトのリポジット
